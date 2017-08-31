@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name          = "zuoyouDemo"
-  s.version       = "0.0.1"
+  s.version       = "1.0.0"
   s.summary       = "zuoyouDemo."
   s.homepage      = "https://github.com/zuoyou1314/zuoyouDemo"
   s.license       = "MIT"
